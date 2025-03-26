@@ -1,0 +1,1 @@
+print("Repositori de Axel clonat per Sergi Gallart")
